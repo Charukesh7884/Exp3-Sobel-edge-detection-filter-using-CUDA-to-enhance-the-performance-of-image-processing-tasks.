@@ -189,8 +189,10 @@ int main() {
     </td>
   </tr>
 </table>
+
 ## RESULT:
-Thus the program has been executed by using CUDA to ________________.
+Thus the program has been executed by using CUDA to perform Sobel Edge Detection on an image successfully.
+
 
 
 # Questions
